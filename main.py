@@ -37,7 +37,7 @@ async def fwdrmv(c, m):
         if m.caption:
             cap = m.caption
         else:
-            cap = ""
+            cap = "hhhhhhhhhhhhshshsjahsha"
         await m.copy(
             m.chat.id,
             caption=cap,
@@ -53,7 +53,7 @@ async def fwdrm(c, m):
         if m.caption:
             cap = m.caption
         else:
-            cap = ""
+            cap = "hhhhhhhhhhhhshshsjahsha"
         await m.copy(
             m.chat.id,
             caption=cap,
